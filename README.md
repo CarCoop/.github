@@ -6,7 +6,7 @@
 
 - `README.md`: [本檔案](https://github.com/CarCoop/.github)
 - `profile/README.md`: [網站對外介紹](https://github.com/CarCoop?view_as=public)
-- [其它所有文件在wiki中](https://github.com/CarCoop/.github/wiki)
+- [wiki：包含UI設計稿、會議紀錄，也可以從上面橫排的Wiki進入](https://github.com/CarCoop/.github/wiki)
 - [todo list](https://github.com/orgs/CarCoop/projects/1)
 
 ## 下載到本地編輯的方法
