@@ -15,3 +15,5 @@
   - macOS在命令視窗執行：`git clone git@github.com:CarCoop/.github.git`
 - 其它文件：
   - macOS在命令視窗執行：`git clone https://github.com/CarCoop/.github.wiki.git`
+
+ps. 如果在mac底下看不到`.github`，可以用這個指令，讓finder看得到系統檔：`defaults write com.apple.finder AppleShowAllFiles -bool YES`
