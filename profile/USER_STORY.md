@@ -18,6 +18,4 @@
 
 P1/ 發起需求、報名需求、上車報平安司機＆乘客信用累積
 
-![Image](https://user-images.githubusercontent.com/53959780/234473908-f1f1626e-c827-4e4e-8537-e9150ec10aee.png)
-
-![Image](https://user-images.githubusercontent.com/53959780/234473952-3ea4422a-eb84-4e1a-88f8-665380364aec.png)
+https://gitmind.com/app/docs/mep4uxgy
